@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/crapulence_xd" target="blank"><img src="https://img.shields.io/twitter/follow/crapulence_xd?logo=twitter&style=for-the-badge" alt="crapulence_xd" /></a> </p>
 
-- 💬 Ask me about **Backend, Web 3.0**
+- 💬 Ask me about **DS, Algo, Backend, Web 3.0**
 
 - 📫 How to reach me **thexas21@gmail.com**
 
