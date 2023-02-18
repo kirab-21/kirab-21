@@ -47,7 +47,7 @@ I’m a full-stack developer. Being a full-stack allows me to not only develop c
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://media.tenor.com/cX92mi1p-NYAAAAC/coding-anime.gif" align="center" style="width: 100%" />
+<img src="https://media.tenor.com/cX92mi1p-NYAAAAC/coding-anime.gif" align="center" />
 </div>  
 
 
@@ -97,7 +97,7 @@ I’m a full-stack developer. Being a full-stack allows me to not only develop c
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=kirab-21&&style=flat-square" align="center" />
 </div>  
   
 
@@ -107,4 +107,3 @@ I’m a full-stack developer. Being a full-stack allows me to not only develop c
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
