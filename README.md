@@ -47,7 +47,7 @@ I’m a full-stack developer. Being a full-stack allows me to not only develop c
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--fXIgQ9zY--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/http://media.comicbook.com/2017/05/anime-streaming-computer-994731.png" align="center" />
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--fXIgQ9zY--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/http://media.comicbook.com/2017/05/anime-streaming-computer-994731.png" />
 </div>  
 
 
