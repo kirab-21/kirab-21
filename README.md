@@ -47,7 +47,7 @@ I’m a full-stack developer. Being a full-stack allows me to not only develop c
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theverge.com%2F2020%2F2%2F28%2F21157828%2Fnew-apple-anime-ad-macbooks-laptops-airpods-earpods&psig=AOvVaw3Xxns7IOZ268D2hKeq_SUv&ust=1683320147934000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDU2K3G3P4CFQAAAAAdAAAAABAE" />
+![giit](https://user-images.githubusercontent.com/86204980/236329119-0a570616-0de1-49b3-90f6-d5ad4cfe067f.png)
 </div>  
 
 
