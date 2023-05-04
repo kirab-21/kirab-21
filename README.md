@@ -29,7 +29,7 @@ I’m a full-stack developer. Being a full-stack allows me to not only develop c
 <br/>  
 
 
-## Rapidfire  
+
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on Web 3.0  
