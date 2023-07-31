@@ -23,30 +23,6 @@ I’m a full-stack developer. Being a full-stack allows me to not only develop c
 <br/>  
 
 
-
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on Web 3.0  
-  
-
-- 🌱 I’m currently learning Hyperledger  
-  
-
-- ❓ Ask me about anything related to DS, Algo, ML and Backend technologies  
-  
-
-- ⚡ Fun fact: Real name for hashtag is an octothrope  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/86204980/236329119-0a570616-0de1-49b3-90f6-d5ad4cfe067f.png">
-</div>  
-
-
-</td></tr></table>  
-
 <br/>  
 
 
