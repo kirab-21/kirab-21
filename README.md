@@ -29,6 +29,8 @@ I am a Full-stack developer. Ask me anything about Backend, ML/DL, Blockchain & 
 ###
 
 <div align="left">
+  <div>
+  <h4>Language:-</h4>
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -37,19 +39,41 @@ I am a Full-stack developer. Ask me anything about Backend, ML/DL, Blockchain & 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  </div>
+
+  <div>
+    <h4>Backend Framework:-</h4>
+     <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  </div>
+
+  <div>
+    <h4>Frontend Framework:-</h4>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+
+  </div>
+
+  <div>
+    <h4>Database:-</h4>
+    <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+  </div>
+
+  <div>
+    <h4>Cloud</h4>
+    <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  </div>
+
+  <div>
+    <h4>Tools:-</h4>
+    <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
@@ -57,8 +81,8 @@ I am a Full-stack developer. Ask me anything about Backend, ML/DL, Blockchain & 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-
+  </div>
+ 
   
 </div>
 
