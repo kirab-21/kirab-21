@@ -1,128 +1,33 @@
-## <div align="center">Hey 👋, I'm Prabhu!</div>  
-  
+# Prabhudatta Barik
 
-<div align="center">
-<a href="https://twitter.com/crapulence_xD" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/in/prabhudatta-barik-536150202" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/prabhu_20021" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a> 
-  
-</div>  
-  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkirab-21%2Fkirab-21&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/https://x.com/prxbhxd)](https://twitter.com/https://x.com/prxbhxd)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/prabhudatta21/)
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:thexas21@gmail.com)
+
+[![Github](https://img.shields.io/github/followers/kirab-21?label=Follow&style=social)](https://github.com/kirab-21)
 
 
+Passionate about Backend,  ML/DL, Blockchain & Cloud. Loves to explore and try new things in tech.
 
-### Glad to see you here!  
-I am a Full-stack developer. Ask me anything about Backend, ML/DL, Blockchain & Cloud. Loves to explore and try new things in tech.
 
-  
+### 🖥 Skills
 
-<br/>  
+- Blockchain
+- Backend
+- Cloud
+- Deep Learning
+- Machine Learning
+### ⚙️ Tech Stack
 
-<h3 align="left">🛠 Language and tools</h3>
+![Bootstrap](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&color=353535) ![Bootstrap](https://img.shields.io/badge/-cpp-05122A?style=for-the-badge&logo=cpp&color=353535) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=for-the-badge&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Typescript-05122A?style=for-the-badge&logo=Typescript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=Node.js&color=353535) ![Bootstrap](https://img.shields.io/badge/-express-05122A?style=for-the-badge&logo=express&color=353535) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=for-the-badge&logo=Kubernetes&color=353535) ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=Linux&color=353535) ![Bootstrap](https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&logo=AWS&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=Git&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=Flask&color=353535) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=Django&color=353535)
 
-###
-
-<div align="left">
-  <div>
-  <h4>Language:-</h4>
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  </div>
-
-  <div>
-    <h4>Backend Framework:-</h4>
-     <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
-  </div>
-
-  <div>
-    <h4>Frontend Framework:-</h4>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-
-  </div>
-
-  <div>
-    <h4>Database:-</h4>
-    <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  </div>
-
-  <div>
-    <h4>Cloud:-</h4>
-    <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  </div>
-
-  <div>
-    <h4>Tools:-</h4>
-    <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  </div>
- 
-  
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirab-21&show_icons=true&locale=en&layout=compact" alt="kirab-21" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=kirab-21&" alt="kirab-21" />
 </div>
 
-<br/>  
 
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kirab-21&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirab-21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kirab-21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-
-  
-</div>
-
-###
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kirab-21.kirab-21&"  />
-</div>
-
-  
-
-<br/>  
-
-
-  
-
-<br/>  
-
-
-<br />
-
-----
+---
+:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
